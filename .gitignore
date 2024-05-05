@@ -160,15 +160,10 @@ cython_debug/
 #.idea/
 
 # unlock-fhir-with-rag-on-vertexai IGNORE FILES
-
 gitignore
-
-working/bundles/*
-working/*.zip
-
-neo4j/
-temp
-Remove
-
 utils/matching_engine.py
 utils/matching_engine_utils.py
+old_files/
+
+# Temp Files
+vector_ids.csv
